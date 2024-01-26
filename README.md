@@ -34,7 +34,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- CodeWithHarry for the inspiration. 
+- CodeWithHarry for the inspiration. [@codewithharry](https://github.com/codewithharry)
 
 
 Feel free to reach out if you have any questions or feedback!
