@@ -13,11 +13,11 @@ This project is a static clone of the [CodeWithHarry](https://www.codewithharry.
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/yourusername/codewithharry-clone.git
+ ```bash
+    git clone https://github.com/megh-bari/CodeWithHarry.git
     
     cd codewithharry-clone
-    ```
+  ```
 
 2. Open the HTML files in your preferred web browser to view the website.
 
