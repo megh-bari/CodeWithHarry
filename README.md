@@ -4,6 +4,12 @@
 
 This project is a static clone of the [CodeWithHarry](https://www.codewithharry.com/) website, recreated using only HTML and CSS. CodeWithHarry is a popular online platform for learning programming and web development.
 
+## Preview
+
+![cwh-1](https://github.com/megh-bari/CodeWithHarry/assets/142393952/71a0ed6f-7d00-4552-8093-8a56baef12c9)
+![cwh-2](https://github.com/megh-bari/CodeWithHarry/assets/142393952/9ea904f6-fb38-4b51-89a2-e903d53f4588)
+![cwh-3](https://github.com/megh-bari/CodeWithHarry/assets/142393952/043a2304-0887-4e74-8a46-9a7d53a6199a)
+
 ## Technologies Used
 
 - HTML
