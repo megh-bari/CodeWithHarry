@@ -45,4 +45,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to reach out if you have any questions or feedback!
 
-## Happy coding!
+## Connect with Me 🤝
+Let's connect! Find me on
+- Mail: meghbari01@gamail.com
+  
+## Find me on social media
+- **Instagram:** [@spidey._.01](https://www.instagram.com/spidey._.01/)
+- **Twitter:** [@megh_bari](https://twitter.com/megh_bari/)
+
+ # Happy coding! 🎉
